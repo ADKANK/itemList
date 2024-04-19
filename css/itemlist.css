@@ -1,0 +1,111 @@
+.item-list-container {
+    padding: 20px;
+}
+
+.big-card {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.allitems {
+    display: flex;
+    justify-content: center;
+}
+
+.big-card h2 {
+    margin-bottom: 20px;
+}
+
+.item-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.item-card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.item-details {
+    flex-grow: 1;
+}
+
+.item-name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 10px;
+
+}
+
+.item-description {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.item-actions {
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+.edit-btn {
+    background-color: #f44336;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.delete-btn {
+    background-color: #f44336;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 16px;
+    cursor: pointer;
+    width: 90%;
+    margin-left: 10px;
+
+}
+
+.delete-btn svg,
+.edit-btn svg {
+    width: 25px;
+    height: 20px;
+}
+
+.edit-btn {
+    background-color: #2196f3;
+    width: 90%;
+}
+
+.add-btn {
+    align-self: flex-end;
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: background-color 0.3s ease;
+    margin-bottom: 2%;
+}
+
+.add-btn:hover {
+    background-color: #45a049;
+}

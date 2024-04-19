@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="css/edititems.css">
+</link>
+<div ng-controller="editItemController">
+    <div class="edit-items-container">
+        <h1 class="edititems">Edit Item</h1>
+        <form>
+            <div class="form-group">
+                <label for="itemName">Name:</label>
+                <input type="text" id="itemName" ng-model="itemName" required>
+            </div>
+
+            <div class="form-group">
+                <label for="itemDescription">Description:</label>
+                <textarea id="itemDescription" ng-model="itemDescription" required></textarea>
+            </div>
+
+            <div class="form-group">
+                <button type="button" ng-click="updateItem()">Add Item</button>
+            </div>
+        </form>
+    </div>
+</div>
