@@ -22,7 +22,7 @@ To get started with this project in Visual Studio Code:
 1. Clone this repository to your local machine.
     ```bash
         git clone <repository_url>
-        ```
+
 2. Open Visual Studio Code.
 3. Open the root directory of the cloned repository in Visual Studio Code.
 4. Use the extension "Live Server" by Ritwick Dey to open `index.html` with Live Server:
