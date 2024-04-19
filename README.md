@@ -42,9 +42,9 @@ To get started with this project in Visual Studio Code:
 4. Click on the "Delete" button to remove items from the list.
 
 ### Screenshots
-![Items List](https://github.com/ADKANK/itemList/blob/master/img/Items_List.png?raw=true) Items List
+![Items List](https://github.com/ADKANK/itemList/blob/master/img/Items_List.png?raw=true) Items List <br>
 ![Items List (Mobile View)](https://github.com/ADKANK/itemList/blob/master/img/Items_List_Mobile.png?raw=true) Items List (Mobile View)
-![Add Item](https://github.com/ADKANK/itemList/blob/master/img/Add_Item.png?raw=true) Add Item
+![Add Item](https://github.com/ADKANK/itemList/blob/master/img/Add_Item.png?raw=true) Add Item <br>
 ![Add Item (Mobile View)](https://github.com/ADKANK/itemList/blob/master/img/Add_Item_mobile.png?raw=true) Add Item (Mobile View)
-![Edit Item](https://github.com/ADKANK/itemList/blob/master/img/Edit_Item.png?raw=true) Edit Item
-![Edit Item (Mobile View)](https://github.com/ADKANK/itemList/blob/master/img/Edit_Item_Mobile.png?raw=true) Edit Item (Mobile View)
+![Edit Item](https://github.com/ADKANK/itemList/blob/master/img/Edit_Item.png?raw=true) Edit Item <br>
+![Edit Item (Mobile View)](https://github.com/ADKANK/itemList/blob/master/img/Edit_Item_Mobile.png?raw=true) Edit Item (Mobile View) <br>
